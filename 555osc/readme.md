@@ -1,3 +1,3 @@
-#Rectangular 13 Pin DIN Library for Eagle 
+#555 Astable Oscillator
 
-Suitable for Atari, Roland MIDI Guitars, Multichannel Audio Breakout Circuits, etc.
+Based on 555 Timer Kit by Synthrotek
